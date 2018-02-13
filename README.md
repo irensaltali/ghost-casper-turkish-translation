@@ -2,7 +2,7 @@
 This repo incluef .hbs files of Ghost Casper Theme that translated to Turkish.
 
 # Contact
-@irensaltali
+[irensaltali.com](https://irensaltali.com "İren SALTALI Blog")
 
 # Copyright & License
 
